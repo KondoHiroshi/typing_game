@@ -7,11 +7,13 @@ list_1 = [
 "onishi", "muraoka", "ueda", "kondo", "maezawa", "1p85m",
 "opuastronomy", "apples","ogawalab","spart",
 "nro45m", "alma" , "matsutake", "python3", "github" , "sis"
-"iv", "atacama", "aste", "chile", "orion", "venus", "sun"
+"iv", "atacama", "aste", "chile", "orion", "venus", "sun",
 "galactic", "radec", "mac", "windows", "ls" , "cd",
 "Desktop", "yfactor" , "power", "radio", "astronomy",
 "nobeyama", "harada", "telescope", "resolution", "filament",
-"spectrum"
+"spectrum", "local", "bias", "optics", "amp", "numpy", "matplotlib",
+"casa", "casaviewer", "clouds", "radio", "freq", "GHz", "spectrometer",
+"power", "voltage", "current"
  ]
 
 list_2 = [
