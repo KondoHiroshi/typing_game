@@ -177,16 +177,16 @@ class typing(object):
 
                     now_list = word_single_list[:ii]
                     now_word = "".join(now_list)
-                    print(now_word)
-
+                    print("\r"+now_word,end="")
                     while True:
                         word2 = readchar.readchar()
                         if word == word2:
                             break
                         else:
-                            print("\007")
+                            print("\007",end="")
                             self.miss_count.append(1)
                             continue
+                print("\n")
                 continue
                 #print("go to next word")
         print("======= Game End =====")
